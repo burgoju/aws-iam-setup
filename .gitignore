@@ -1,0 +1,13 @@
+# AWS Credentials
+*.pem
+*.key
+accessKeys.csv
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.tmp
